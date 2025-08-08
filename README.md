@@ -81,3 +81,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 # nextjs-supabase-auth
+# nextjs-supabase-auth
